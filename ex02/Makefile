@@ -1,4 +1,4 @@
-NAME = harl
+NAME = run
 CC = g++
 FLAGS = -Wall -Wextra -Werror
 VFLAGS = -std=c++98 -fsanitize=address
